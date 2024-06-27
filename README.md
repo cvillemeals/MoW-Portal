@@ -30,8 +30,8 @@ Reports
 
 ### MOW Contact Information
 
-Joanne Smith, Volunteer Manager
-volunteer@cvillemeals.org
+Anna Byfield, Office Manager
+office@cvillemeals.org
 
-Robin Goldstein, Communications Manager
-robin@cvillemeals.org
+Hailey Peterson, Executive Director
+director@cvillemeals.org
