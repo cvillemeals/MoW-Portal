@@ -21,17 +21,17 @@ Customer Management
 
 Volunteer Management
 - Volunteers: Welcome screen view: address, cell phone & home phone, email address, notes, assignments, temporary assignments
-- Add function for ability to email volunteers (based off of the overview driver sheet) on any given day, including subs
+- Add function for ability to email volunteers (based on the overview driver sheet) on any given day, including subs
 
 Reports
-- Export Customers: Add delivery day to report
+- Export Customers: Add delivery day to the report
 - Billing Report: add a report of client cancellation dates (right now this functionality does not exist and old data disappears and is not stored)
 
 
 ### MOW Contact Information
 
-Joanne Smith, Volunteer Manager
+Julie Cragg, Volunteer Manager
 volunteer@cvillemeals.org
 
-Robin Goldstein, Communications Manager
-robin@cvillemeals.org
+H Peterson, Executive Director
+director@cvillemeals.org
